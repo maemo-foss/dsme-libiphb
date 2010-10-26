@@ -1,0 +1,15 @@
+#
+# IMPORTANT NOTICE
+#
+# README-FIRST
+	
+The libiphb repository has been relocated to
+	
+    http://meego.gitorious.org/meego-middleware/libiphb
+
+No updates will be made to the old repository
+	
+    http://gitorious.org/dsme/libiphb
+
+Please change your origin to point to the new location and send any change
+requests as merge requests via gitorious.
